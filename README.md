@@ -1,4 +1,4 @@
-# Unpaired Image-to-Image Translation using conditional CycleGAN
+# Unpaired Image-to-Image Food Translation using conditional CycleGAN
 
 
 

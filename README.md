@@ -1,4 +1,10 @@
-# Unpaired Image-to-Image Food Translation using conditional CycleGAN
+# 情報工学プロジェクトページ
+
+## スライドなど
+初回顔わせの際に，全スライドに各メンバーの顔画像を載せていたので，
+スライドなどはGoogle Driveの柳井研メンバ限定共有リンクを貼っておきます．
+
+## 
 
 
 
